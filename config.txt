@@ -1,0 +1,6 @@
+n=1 // dungeon instances
+t=1 // tanks
+h=1 // healers
+d=3 // dps
+t1=1 // min clear time
+t2=1 // max clear time
